@@ -1,0 +1,1 @@
+Dynamic slider widget for Google Blogger
